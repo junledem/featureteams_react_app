@@ -1,0 +1,24 @@
+.container-welcome {
+    margin-top: 64px !important;
+    padding: 0 40px 0 40px;
+}
+
+.welcome-subtitle-underline {
+    border-bottom: solid 1px;
+    width: 200px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.container-step {
+    margin-top: 72px !important;
+    background-color: #f0f2f5 !important;
+}
+
+.step-icon {
+    padding-right: 8px;
+}
+
+.step-label-button {
+    margin-top: 20px;
+}

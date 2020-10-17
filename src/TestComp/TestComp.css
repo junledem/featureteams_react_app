@@ -1,0 +1,37 @@
+.role-form {
+    border-radius: 16px;
+    border: 2px solid #73AD21;
+    width: 400px;
+    /* height: 200px; */
+    padding: 0 16px 0 16px;
+    margin: 8px;
+}
+
+.role-header {
+    text-align: center;
+}
+
+.role-review-det {
+    float: right;
+    display: flex;
+    font-size: 14px;
+}
+
+.role-footer {
+    display: flex;
+    /* flex-direction: column; */
+    width: 100%;
+    justify-content: center;
+}
+
+.role-footer > div {
+    padding: 8px;
+}
+
+.icon-reviewed {
+    color: green;
+}
+
+.icon-not-reviewed {
+    color: red;
+}

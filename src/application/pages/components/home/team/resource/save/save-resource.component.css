@@ -1,0 +1,31 @@
+.container-save-resource {
+    
+}
+
+.container-resource-type {
+    width: 100%;
+}
+
+.resource-field {
+    width: 100%;
+    min-width: 220px !important;
+}
+
+.grid-item {
+    border-bottom: solid 1px gray;
+    padding-bottom: 16px !important;
+    margin-bottom: 24px !important;
+}
+
+.item-skill {
+    padding-bottom: 4px !important;
+}
+
+.hide-button {
+    visibility: hidden;
+}
+
+.helper-text {
+    color: red !important;
+    margin-left: 14px !important;
+}

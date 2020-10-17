@@ -1,0 +1,14 @@
+[
+    {
+        "roleId": 1,
+        "roleType": "BA",
+        "roleName": "Junior Business Analyst",
+        "responsibilities": [
+            {
+                "responsibilityId": 1,
+                "responsibilityDesc": "Up to 2 years experience"
+            }
+        ],
+        "isReviewed": false
+    }
+]

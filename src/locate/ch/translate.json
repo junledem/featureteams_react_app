@@ -1,0 +1,17 @@
+{
+    "translations": {
+        "paragraph": "Test ch language",
+        "author": {
+            "title": "Author Name",
+            "value": "Tariqul"
+        },
+        "team": {
+            "header": {
+                "tabOptions": {
+                    "tab1Label": "We need a feature team - CH",
+                    "tab2Label": "Tab 2 - CH"
+                }
+            }
+        }
+    }
+}

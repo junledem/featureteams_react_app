@@ -1,0 +1,25 @@
+.container-configuration {
+    
+}
+
+.textfield {
+    width: 100%;
+    min-width: 220px !important;
+}
+
+.config-stepper {
+    width: 100%;
+}
+
+.config-button-container {
+    width: 100%;
+    padding-bottom: 40px !important;
+}
+
+.config-button-grid {
+    padding: 24px !important;
+}
+
+.config-button {
+    width: 160px;
+}

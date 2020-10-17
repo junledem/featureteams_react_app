@@ -1,0 +1,34 @@
+.container-background {
+    /* background-color: rgb(199, 183, 166); */
+    /* background-color: #c7b7a6; */
+    background-size: cover;
+    background-image: url('../../../images/feature_teams.jpg');
+    display: flex;
+}
+
+.container-home {
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+.home-navigation {
+    color: rgb(55, 55, 55);
+}
+
+.app-bar {
+    width: 100%;
+    height: 48px;
+    justify-content: center;
+    background: transparent !important;
+}
+
+.container-home-header {
+    padding: 16px;
+}
+
+.home-header {
+    padding: 96px 0 32px 0;
+}
+
+.home-config-button {
+    padding: 48px 0 88px 0;
+}

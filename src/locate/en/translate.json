@@ -1,0 +1,401 @@
+{
+    "translations": {
+        "home": {
+            "companyTitle": "FeatureTeams",
+            "button": {
+                "home": {
+                    "label": "Home"
+                },
+                "config": {
+                    "label": "Configurator"
+                },
+                "service": {
+                    "label": "Services"
+                },
+                "dashboard": {
+                    "label": "Dashboard"
+                },
+                "login": {
+                    "label": "Login"
+                },
+                "configTeam": {
+                    "label": "CONFIGURE MY TEAM"
+                }
+            },
+            "header": "Professional<br/><strong>Feature Teams</strong> from<br/>renowned IT Suppliers",
+            "subtitle": "Two or more people are <strong>always better</strong> than one solving<br/>problems, finishing off difficult tasks and increasing<br/>producitivty. With us you get easy access to <strong>professional<br/>feature teams</strong> from top-tier IT Suppliers."
+        },
+        "welcome": {
+            "header": "Welcome to FeatureTeams.com",
+            "subtitle": "Our goal is to support you in sourcing the best and most suitable development team for your project. To do so we work with top-tier IT Suppliers. We see ourselves, as your partner before, during and after a project.",
+            "stepper": {
+                "step1": {
+                    "label": "Identify Team",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat Lorem ipsum dolor sit amet, consectetur"
+                },
+                "step2": {
+                    "label": "Configure Team",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui"
+                },
+                "step3": {
+                    "label": "Select Team Members",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis"
+                },
+                "step4": {
+                    "label": "Contract Team",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus"
+                },
+                "step5": {
+                    "label": "Manage Team",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                }
+            },
+            "button": {
+                "setupMeeting": {
+                    "label": "SET UP MEETING"
+                },
+                "configTeam": {
+                    "label": "CONFIGURE MEETING"
+                },
+                "register": {
+                    "label": "REGISTER NOW"
+                }
+            }
+        },
+        "meeting": {
+            "header": "Want help to identifying your perfect team?",
+            "subtitle": "Our team consists of senior consultant who have worked in various Feature Teams setups with multiple clients and can help you set up the perfect Team for your Project.",
+            "button": {
+                "setupMeeting": {
+                    "label": "SETUP A MEETING RIGHT AWAY"
+                },
+                "sendMessage": {
+                    "label": "SEND US A MESSAGE"
+                }
+            },
+            "textfield": {
+                "name": {
+                    "label": "Name",
+                    "placeHolder": "Name",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                },
+                "company": {
+                    "label": "Company",
+                    "placeHolder": "Company",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                },
+                "email": {
+                    "label": "E-Mail",
+                    "placeHolder": "E-Mail",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                },
+                "telephone": {
+                    "label": "Telephone",
+                    "placeHolder": "Telephone",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                }
+            }
+        },
+        "team": {
+            "header": "Configure the Team that fits your needs",
+            "resourceGroup": {
+                "BA": "Business Analysis, Design & UX",
+                "DEV": "Development",
+                "TEST": "Quality Assurance",
+                "SPECIALIST": "Specialist"
+            },
+            "resourceType": {
+                "TEST_FUNCTIONAL": "Functional Testing",
+                "DEV_BE_SENIOR": "Senior Backend Developer",
+                "TEST_AUTOMATION": "Test Automation Engineer",
+                "SPECIAL_DEVOPS": "Development and Operations",
+                "BA_REQ_ENGR": "Business Analyst",
+                "DEV_MOBILE_JUNIOR": "Junior Mobile Developer",
+                "DEV_BE_JUNIOR": "Junior Backend Developer",
+                "BA_JUNIOR": "Junior Business Analyst",
+                "DEV_FE_JUNIOR": "Junior Frontend Developer",
+                "DEV_MOBILE_SENIOR": "Senior Mobile Developer",
+                "SPECIAL_ARCH": "Enterprise Architect",
+                "DEV_FE_SENIOR": "Senior Frontend Developer",
+                "BA_SENIOR": "Senior Business Analyst",
+                "SPECIAL_PM": "Project Manager",
+                "DEV_FULL_STACK_SENIOR": "Senior Fullstack Developer",
+                "DEV_FULL_STACK_JUNIOR": "Junior Fullstack Developer"
+            },
+            "profileCompleted": "Profile successfully created",
+            "profileIncomplete": "Profile to be completed",
+            "topSkills": "Top 3 Skills",
+            "button": {
+                "removeResource": {
+                    "label": "Remove"
+                },
+                "confirmRemoveResource": {
+                    "label": "Yes"
+                },
+                "cancelRemoveResource": {
+                    "label": "Cancel"
+                },
+                "editResource": {
+                    "label": "Edit"
+                },
+                "addResoure": {
+                    "label": "Add"
+                },
+                "saveResoure": {
+                    "label": "Save"
+                },
+                "cancelSaveResource": {
+                    "label": "Cancel"
+                },
+                "makeSkillPriority": {
+                    "label": "Make Primary Skill"
+                },
+                "sendRequest": {
+                    "label": "SEND REQUEST AND GET OFFERS"
+                }
+            },
+            "removeResourceDialogTitle": "Are you sure you want to remove resource?",
+            "roleDescription": "Role Description",
+            "radio": {
+                "resourceType": {
+                    "label": "",
+                    "placeHolder": "",
+                    "helperText": {
+                        "required": "Please select a resource type"
+                    }
+                }
+            },
+            "textfield": {
+                "roleDesc": {
+                    "label": "Role Description",
+                    "placeHolder": "Please select a resource type first",
+                    "helperText": {
+                        "required": "Please select a resource type first"
+                    }
+                },
+                "skillValues": {
+                    "label": "Skills",
+                    "placeHolder": "Search by keyword of skill",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                }
+            },
+            "skillHeaders": {
+                "name": "Skill",
+                "proficiency": "Proficiency",
+                "priority": "Priority"
+            },
+            "sendRequestHeader": "Happy with the team? Hit <strong>Send Request</strong>, add some additional details and get offers! <br/>No strings attached - any changes apply on contracting only",
+            "averageDailyRate": "Expected Average Daily Rate: 900 - 1250 USD"
+        },
+        "login": {
+            "header": "LOG IN TO FEATURE TEAMS",
+            "textfield": {
+                "email": {
+                    "label": "E-Mail",
+                    "placeHolder": "E-Mail",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                },
+                "password": {
+                    "label": "Password",
+                    "placeHolder": "Password",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                }
+            },
+            "checkbox": {
+                "showPassword": {
+                    "label": "Show Password"
+                }
+            },
+            "button": {
+                "login": {
+                    "label": "LOGIN"
+                },
+                "loginLinkedIn": {
+                    "label": "LOG IN WITH LINKEDIN"
+                },
+                "loginXing": {
+                    "label": "LOG IN WITH XING"
+                }
+            },
+            "forgotPassword": "Forgot your password?",
+            "headerSocial": "Log in with your social network",
+            "helperText": {
+                "errorLogin": "Your email and password do not match."
+            }
+        },
+        "signup": {
+            "header": "SIGN UP FOR FEATURE TEAMS",
+            "textfield": {
+                "firstName": {
+                    "label": "First Name",
+                    "placeHolder": "First Name",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                },
+                "lastName": {
+                    "label": "Last Name",
+                    "placeHolder": "Last Name",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                },
+                "company": {
+                    "label": "Company",
+                    "placeHolder": "Company",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                },
+                "email": {
+                    "label": "E-Mail",
+                    "placeHolder": "E-Mail",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                },
+                "password": {
+                    "label": "Password",
+                    "placeHolder": "Password",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                },
+                "retypePassword": {
+                    "label": "Retype Password",
+                    "placeHolder": "Retype Password",
+                    "helperText": {
+                        "required": "Please enter a value"
+                    }
+                }
+            },
+            "button": {
+                "signup": {
+                    "label": "SIGN ME UP"
+                },
+                "signupLinkedIn": {
+                    "label": "SIGN IN WITH LINKEDIN"
+                },
+                "signupXing": {
+                    "label": "SIGN IN WITH XING"
+                }
+            },
+            "headerSocial": "Sign in with your social network",
+            "helperText": {
+                "mismatch": "Password must be matched."
+            }
+        },
+        "configuration": {
+            "stepper": {
+                "step1": {
+                    "label": "Additional details"
+                },
+                "step2": {
+                    "label": "Feedback"
+                },
+                "step3": {
+                    "label": "Summary"
+                }
+            },
+            "projectDetailHeader": "PROVIDE ADDITIONAL DETAILS OF YOUR PROJECT",
+            "projectDetailSubHeader": "Provide as much as you want. The more you let us know the better our experts can cross-check the team setup. But we also understand we cannot always talk about our projects.",
+            "feedbackHeader": "ARE YOU LOOKING FOR MORE SUPPORT IN THE SELECTION PROCESS?",
+            "feedbackSubHeader": "We have experienced consultants who have done multiple projects with a variety of clients and can help you setting up the best team.",
+            "textfield": {
+                "projectName": {
+                    "label": "Please name your project",
+                    "placeHolder": "Project Name",
+                    "helperText": {
+                        "required": "Please enter your project name."
+                    }
+                },
+                "projectStart": {
+                    "label": "When does your project start?",
+                    "placeHolder": "Start Date",
+                    "helperText": {
+                        "required": "Please select project start date."
+                    }
+                },
+                "projectEnd": {
+                    "label": "When is it planned to finish the project?",
+                    "placeHolder": "End Date",
+                    "helperText": {
+                        "required": "Please select project end date."
+                    }
+                },
+                "workLocation": {
+                    "label": "Main working location(s)?",
+                    "placeHolder": "Work Location(s)",
+                    "helperText": {
+                        "required": "Please enter work location(s)."
+                    }
+                },
+                "projectDescription": {
+                    "label": "Describe your project for us",
+                    "placeHolder": "Project Description",
+                    "helperText": {
+                        "required": "Please enter project description."
+                    }
+                }
+            },
+            "button": {
+                "uploadDocument": {
+                    "label": "Upload file"
+                },
+                "back": {
+                    "label": "Back"
+                },
+                "next": {
+                    "label": "Next"
+                }
+            },
+            "radioGroupBox": {
+                "supportRequest": {
+                    "options": [
+                        {
+                            "label": "Please contact me to discuss the team setup and composition",
+                            "subLabel": "We're happy to help you on the feature Team setup and do a 360° assessment of your project to ensure the perfect setup of your Feature Team. Our consultants are all experienced in various roles and project. Any costs for the consultant will be deducted when you decide to book a Feature team."
+                        },
+                        {
+                            "label": "We are all set. No further support needed",
+                            "subLabel": "We understand you already have experience and don't need further support. Totally fine - should we still be of support later don't hesitate to get in contact with us at anytime."
+                        }
+                    ]
+                }
+            }
+        },
+        "paragraph": "Test en language",
+        "author": {
+            "title": "Author Name",
+            "value": "Tariqul"
+        },
+        "apiRequest": {
+            "message": {
+                "success": {
+                    "addResourceToConfig": "New resource has been added.",
+                    "editResourceFromConfig": "Resource has been updated.",
+                    "removeResourceFromConfig": "Resource has been removed."
+                },
+                "error": {
+                    "addResourceToConfig": "Cannot add resource at the moment.",
+                    "editResourceFromConfig": "Cannot edit resource at the moment.",
+                    "removeResourceFromConfig": "Cannot remove resource at the moment."
+                }
+            }
+        }
+    }
+}

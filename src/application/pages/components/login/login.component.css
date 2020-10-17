@@ -1,0 +1,64 @@
+.container-login {
+    padding-bottom: 80px;
+    margin-top: 80px !important;
+}
+
+.login {
+    min-height: 360px;
+    width: 800px;
+    border: 1px solid gray;
+    background-color: white;
+}
+
+.login-header {
+    font-size: 10px;
+    color: grey;
+    padding: 16px;
+}
+
+.login-field {
+    min-width: 220px !important;
+    width: 100%;
+    padding-bottom: 8px !important;
+}
+
+.login-button {
+    min-width: 220px !important;
+    width: 100%;
+}
+
+.login-show-password {
+    width: 100%;
+    padding-bottom: 32px;
+}
+
+.login-forgot-password {
+    color: blue;
+}
+
+.login-or {
+    width: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.or-design {
+    display: flex;
+    width: 36px;
+    height: 32px;
+    justify-content: center;
+    background: gray;
+    border-radius: 18px;
+    padding-top: 4px;
+    color: white;
+}
+
+@media only screen and (max-width: 800px) {
+    .login {
+        min-height: 360px;
+        width: 90%;
+        border: 1px solid gray;
+        background-color: white;
+    }
+}

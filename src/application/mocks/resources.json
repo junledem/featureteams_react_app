@@ -1,0 +1,843 @@
+[
+    {
+      "_id": "5e767b1163b3872888c32f05",
+      "resourceTypeCode": "TEST_FUNCTIONAL",
+      "resourceTypeCodeName": "resource.type.code.name.test.functional",
+      "resourceTypeCodeDesc": "resource.type.code.desc.test.functional",
+      "resourceGroupCode": "TEST",
+      "rescourceGroupCodeName": "resource.type.code.name.test",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "TEST_DESIGN",
+          "skillProficiency": "2",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.test.design"
+        },
+        {
+          "skillCode": "HP_QC",
+          "skillProficiency": "5",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.hp.quality.center"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": false,
+      "resourceId": 11
+    },
+    {
+      "_id": "5e767b1163b3872888c32efd",
+      "resourceTypeCode": "DEV_BE_SENIOR",
+      "resourceTypeCodeName": "resource.type.code.name.dev.be.senior",
+      "resourceTypeCodeDesc": "resource.type.code.desc.dev.be.senior",
+      "resourceGroupCode": "DEV",
+      "rescourceGroupCodeName": "resource.type.code.name.dev",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "JAVA",
+          "skillProficiency": "2",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.java"
+        },
+        {
+          "skillCode": "JAVA_EE",
+          "skillProficiency": "5",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.java.ee"
+        },
+        {
+          "skillCode": "SPRING_FRAMEWORK",
+          "skillProficiency": "1",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.spring.framework"
+        },
+        {
+          "skillCode": "SPRINGBOOT_FRAMEWORK",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.springboot.framework"
+        },
+        {
+          "skillCode": "TEAM_LEAD_EXP",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.team.lead.experience"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": true,
+      "resourceId": 3
+    },
+    {
+      "_id": "5e767b1163b3872888c32f06",
+      "resourceTypeCode": "TEST_AUTOMATION",
+      "resourceTypeCodeName": "resource.type.code.name.test.automation",
+      "resourceTypeCodeDesc": "resource.type.code.desc.test.automation",
+      "resourceGroupCode": "TEST",
+      "rescourceGroupCodeName": "resource.type.code.name.test",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "TOSCA",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.tosca"
+        },
+        {
+          "skillCode": "SELENIUM",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.selenium"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": true,
+      "resourceId": 12
+    },
+    {
+      "_id": "5e767b1163b3872888c32f09",
+      "resourceTypeCode": "SPECIAL_DEVOPS",
+      "resourceTypeCodeName": "resource.type.code.name.special.devops",
+      "resourceTypeCodeDesc": "resource.type.code.desc.special.devops",
+      "resourceGroupCode": "SPECIALIST",
+      "rescourceGroupCodeName": "resource.type.code.name.specialist",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "CI_CD",
+          "skillProficiency": "3",
+          "skillSeverity": "2",
+          "skillCodeName": "skill.code.name.continuous.integration.deployment"
+        },
+        {
+          "skillCode": "DOCKER",
+          "skillProficiency": "1",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.container.docker"
+        },
+        {
+          "skillCode": "JENKINS",
+          "skillProficiency": "2",
+          "skillSeverity": "2",
+          "skillCodeName": "skill.code.name.jenkins"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": false,
+      "resourceId": 15
+    },
+    {
+      "_id": "5e767b1163b3872888c32efc",
+      "resourceTypeCode": "BA_REQ_ENGR",
+      "resourceTypeCodeName": "resource.type.code.name.ba.req.engr",
+      "resourceTypeCodeDesc": "resource.type.code.desc.ba.req.engr",
+      "resourceGroupCode": "BA",
+      "rescourceGroupCodeName": "resource.type.code.name.ba",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "AGILE_REQ_ENGR",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.agile.req.engr"
+        },
+        {
+          "skillCode": "SW_APP_DESIGN",
+          "skillProficiency": "2",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.software.app.design"
+        },
+        {
+          "skillCode": "TEAM_LEAD_EXP",
+          "skillProficiency": "5",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.team.lead.experience"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": false
+    },
+    {
+      "_id": "5e767b1163b3872888c32f02",
+      "resourceTypeCode": "DEV_MOBILE_JUNIOR",
+      "resourceTypeCodeName": "resource.type.code.name.dev.mobile.junior",
+      "resourceTypeCodeDesc": "resource.type.code.desc.dev.mobile.junior",
+      "resourceGroupCode": "DEV",
+      "rescourceGroupCodeName": "resource.type.code.name.dev",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "IOS",
+          "skillProficiency": "3",
+          "skillSeverity": "2",
+          "skillCodeName": "skill.code.name.iOS"
+        },
+        {
+          "skillCode": "ANDROID",
+          "skillProficiency": "4",
+          "skillSeverity": "2",
+          "skillCodeName": "skill.code.name.android"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": false,
+      "resourceId": 8
+    },
+    {
+      "_id": "5e767b1163b3872888c32efe",
+      "resourceTypeCode": "DEV_BE_JUNIOR",
+      "resourceTypeCodeName": "resource.type.code.name.dev.be.junior",
+      "resourceTypeCodeDesc": "resource.type.code.desc.dev.be.junior",
+      "resourceGroupCode": "DEV",
+      "rescourceGroupCodeName": "resource.type.code.name.dev",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "JAVA",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.java"
+        },
+        {
+          "skillCode": "JAVA_EE",
+          "skillProficiency": "2",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.java.ee"
+        },
+        {
+          "skillCode": "SPRING_FRAMEWORK",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.spring.framework"
+        },
+        {
+          "skillCode": "SPRINGBOOT_FRAMEWORK",
+          "skillProficiency": "1",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.springboot.framework"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": true,
+      "resourceId": 4
+    },
+    {
+      "_id": "5e767b1163b3872888c32efa",
+      "resourceTypeCode": "BA_JUNIOR",
+      "resourceTypeCodeName": "resource.type.code.name.ba.junior",
+      "resourceTypeCodeDesc": "resource.type.code.desc.ba.junior",
+      "resourceGroupCode": "BA",
+      "rescourceGroupCodeName": "resource.type.code.name.ba",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "AGILE_REQ_ENGR",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.agile.req.engr"
+        },
+        {
+          "skillCode": "SW_APP_DESIGN",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.software.app.design"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": false,
+      "resourceId": 1
+    },
+    {
+      "_id": "5e767b1163b3872888c32f00",
+      "resourceTypeCode": "DEV_FE_JUNIOR",
+      "resourceTypeCodeName": "resource.type.code.name.dev.fe.junior",
+      "resourceTypeCodeDesc": "resource.type.code.desc.dev.fe.junior",
+      "resourceGroupCode": "DEV",
+      "rescourceGroupCodeName": "resource.type.code.name.dev",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "REACTJS",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.reactjs"
+        },
+        {
+          "skillCode": "ANGULARJS",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.angularjs"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": true,
+      "resourceId": 6
+    },
+    {
+      "_id": "5e767b1163b3872888c32f01",
+      "resourceTypeCode": "DEV_MOBILE_SENIOR",
+      "resourceTypeCodeName": "resource.type.code.name.dev.mobile.senior",
+      "resourceTypeCodeDesc": "resource.type.code.desc.dev.mobile.senior",
+      "resourceGroupCode": "DEV",
+      "rescourceGroupCodeName": "resource.type.code.name.dev",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "IOS",
+          "skillProficiency": "1",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.iOS"
+        },
+        {
+          "skillCode": "ANDROID",
+          "skillProficiency": "5",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.android"
+        },
+        {
+          "skillCode": "TEAM_LEAD_EXP",
+          "skillProficiency": "2",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.team.lead.experience"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": false,
+      "resourceId": 7
+    },
+    {
+      "_id": "5e767b1163b3872888c32f07",
+      "resourceTypeCode": "SPECIAL_ARCH",
+      "resourceTypeCodeName": "resource.type.code.name.special.software.arch",
+      "resourceTypeCodeDesc": "resource.type.code.desc.special.software.arch",
+      "resourceGroupCode": "SPECIALIST",
+      "rescourceGroupCodeName": "resource.type.code.name.specialist",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "AGILE_REQ_ENGR",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.agile.req.engr"
+        },
+        {
+          "skillCode": "SW_APP_DESIGN",
+          "skillProficiency": "2",
+          "skillSeverity": "2",
+          "skillCodeName": "skill.code.name.software.app.design"
+        },
+        {
+          "skillCode": "TEAM_LEAD_EXP",
+          "skillProficiency": "5",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.team.lead.experience"
+        },
+        {
+          "skillCode": "TECH:_ARCH",
+          "skillProficiency": "1",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.tech.arch"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": true,
+      "resourceId": 13
+    },
+    {
+      "_id": "5e767b1163b3872888c32eff",
+      "resourceTypeCode": "DEV_FE_SENIOR",
+      "resourceTypeCodeName": "resource.type.code.name.dev.fe.senior",
+      "resourceTypeCodeDesc": "resource.type.code.desc.dev.fe.senior",
+      "resourceGroupCode": "DEV",
+      "rescourceGroupCodeName": "resource.type.code.name.dev",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "REACTJS",
+          "skillProficiency": "1",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.reactjs"
+        },
+        {
+          "skillCode": "ANGULARJS",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.angularjs"
+        },
+        {
+          "skillCode": "TEAM_LEAD_EXP",
+          "skillProficiency": "5",
+          "skillSeverity": "2",
+          "skillCodeName": "skill.code.name.team.lead.experience"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": true,
+      "resourceId": 5
+    },
+    {
+      "_id": "5e767b1163b3872888c32efb",
+      "resourceTypeCode": "BA_SENIOR",
+      "resourceTypeCodeName": "resource.type.code.name.ba.senior",
+      "resourceTypeCodeDesc": "resource.type.code.desc.ba.senior",
+      "resourceGroupCode": "BA",
+      "rescourceGroupCodeName": "resource.type.code.name.ba",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "AGILE_REQ_ENGR",
+          "skillProficiency": "1",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.agile.req.engr"
+        },
+        {
+          "skillCode": "SW_APP_DESIGN",
+          "skillProficiency": "4",
+          "skillSeverity": "2",
+          "skillCodeName": "skill.code.name.software.app.design"
+        },
+        {
+          "skillCode": "TEAM_LEAD_EXP",
+          "skillProficiency": "2",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.team.lead.experience"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": true,
+      "resourceId": 2
+    },
+    {
+      "_id": "5e767b1163b3872888c32f08",
+      "resourceTypeCode": "SPECIAL_PM",
+      "resourceTypeCodeName": "resource.type.code.name.special.project.mgr",
+      "resourceTypeCodeDesc": "resource.type.code.desc.special.project.mgr",
+      "resourceGroupCode": "SPECIALIST",
+      "rescourceGroupCodeName": "resource.type.code.name.specialist",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "AGILE_REQ_ENGR",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.agile.req.engr"
+        },
+        {
+          "skillCode": "SW_APP_DESIGN",
+          "skillProficiency": "5",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.software.app.design"
+        },
+        {
+          "skillCode": "TEAM_LEAD_EXP",
+          "skillProficiency": "1",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.team.lead.experience"
+        },
+        {
+          "skillCode": "PROJ_MGMT",
+          "skillProficiency": "2",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.tech.arch"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": false,
+      "resourceId": 14
+    },
+    {
+      "_id": "5e767b1163b3872888c32f03",
+      "resourceTypeCode": "DEV_FULL_STACK_SENIOR",
+      "resourceTypeCodeName": "resource.type.code.name.dev.full.stack.senior",
+      "resourceTypeCodeDesc": "resource.type.code.desc.dev.full.stack.senior",
+      "resourceGroupCode": "DEV",
+      "rescourceGroupCodeName": "resource.type.code.name.dev",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "JAVA",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.java"
+        },
+        {
+          "skillCode": "JAVA_EE",
+          "skillProficiency": "5",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.java.ee"
+        },
+        {
+          "skillCode": "SPRING_FRAMEWORK",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.spring.framework"
+        },
+        {
+          "skillCode": "SPRINGBOOT_FRAMEWORK",
+          "skillProficiency": "2",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.springboot.framework"
+        },
+        {
+          "skillCode": "REACTJS",
+          "skillProficiency": "3",
+          "skillSeverity": "2",
+          "skillCodeName": "skill.code.name.reactjs"
+        },
+        {
+          "skillCode": "ANGULARJS",
+          "skillProficiency": "2",
+          "skillSeverity": "2",
+          "skillCodeName": "skill.code.name.angularjs"
+        },
+        {
+          "skillCode": "TEAM_LEAD_EXP",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.team.lead.experience"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": false,
+      "resourceId": 9
+    },
+    {
+      "_id": "5e767b1163b3872888c32f04",
+      "resourceTypeCode": "DEV_FULL_STACK_JUNIOR",
+      "resourceTypeCodeName": "resource.type.code.name.dev.full.stack.junior",
+      "resourceTypeCodeDesc": "resource.type.code.desc.dev.full.stack.junior",
+      "resourceGroupCode": "DEV",
+      "rescourceGroupCodeName": "resource.type.code.name.dev",
+      "industries": [
+        {
+          "industryCode": "FS",
+          "industryCodeName": "industry.group.code.name.fs"
+        },
+        {
+          "industryCode": "TELECOM",
+          "industryCodeName": "industry.group.code.name.telecom"
+        },
+        {
+          "industryCode": "PRODUCTS",
+          "industryCodeName": "industry.group.code.name.products"
+        },
+        {
+          "industryCode": "HEALTH_CARE",
+          "industryCodeName": "industry.group.code.name.health.care"
+        }
+      ],
+      "skills": [
+        {
+          "skillCode": "JAVA",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.java"
+        },
+        {
+          "skillCode": "JAVA_EE",
+          "skillProficiency": "1",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.java.ee"
+        },
+        {
+          "skillCode": "SPRING_FRAMEWORK",
+          "skillProficiency": "2",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.spring.framework"
+        },
+        {
+          "skillCode": "SPRINGBOOT_FRAMEWORK",
+          "skillProficiency": "5",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.springboot.framework"
+        },
+        {
+          "skillCode": "REACTJS",
+          "skillProficiency": "4",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.reactjs"
+        },
+        {
+          "skillCode": "ANGULARJS",
+          "skillProficiency": "3",
+          "skillSeverity": "1",
+          "skillCodeName": "skill.code.name.angularjs"
+        }
+      ],
+      "dailyRateMin": 900,
+      "dailyRateMax": 1200,
+      "preSelected": false,
+      "resourceId": 10
+    }
+  ]
